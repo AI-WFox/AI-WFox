@@ -7,5 +7,3 @@
 **Tech:** C++, Python · Git · Docker (basic)
 
 **Fun Facts:** Ragdoll Cat · Kickboxing
-
-> Learn honestly. Build patiently.
