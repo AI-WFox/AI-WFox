@@ -8,8 +8,8 @@ So far that has meant Internet measurement, protein machine learning, vision–l
 
 All manuscripts below are under review, so details may change.
 
-- **TRACE6: Tiered Ranking and Persistence-Controlled Evaluation of Probe-Reported IPv4–IPv6 Prefix Associations.** First author, submitted to *IEEE Access*. A parameter-free ranker that links IPv4 and IPv6 prefixes from RIPE Atlas probe data, with a pre-registered evaluation that keeps a query's own history out of the test.
-- **Interpretable ASR-Derived Feature Modeling for Classroom EFL Speaking Score Prediction: A Pilot Study.** First author, with co-authors from HCMUS, HCMUE and the University of Twente. [Preprint on SSRN](https://ssrn.com/abstract=7356648). Whisper-derived fluency, lexical and confidence features predict teacher speaking scores on real classroom recordings.
+- **TRACE6: Tiered Ranking and Persistence-Controlled Evaluation of Probe-Reported IPv4–IPv6 Prefix Associations.** First author. A parameter-free ranker that links IPv4 and IPv6 prefixes from RIPE Atlas probe data, with a pre-registered evaluation that keeps a query's own history out of the test.
+- **Interpretable ASR-Derived Feature Modeling for Classroom EFL Speaking Score Prediction: A Pilot Study.** First author, with co-authors from HCMUS, HCMUE and the University of Twente. [Preprint](https://ssrn.com/abstract=7356648). Whisper-derived fluency, lexical and confidence features predict teacher speaking scores on real classroom recordings.
 - **Data leakage in protein fitness benchmarks.** First author. Shows that near-duplicate variants inflate label-transfer results on deep mutational scanning data, and argues for distance-stratified reporting.
 - **Routing in vision–language models.** First author. A matched-control audit of whether a common supervision signal really improves cost-aware routing between a cheap model and a larger VLM (under double-blind review).
 
