@@ -6,12 +6,12 @@ So far that has meant Internet measurement, protein machine learning, vision–l
 
 ## Research
 
-All manuscripts below are under review, so details may change.
+Several manuscripts are currently under review, so I describe them by area only:
 
-- **TRACE6: Tiered Ranking and Persistence-Controlled Evaluation of Probe-Reported IPv4–IPv6 Prefix Associations.** A parameter-free ranker that links IPv4 and IPv6 prefixes from RIPE Atlas probe data, with a pre-registered evaluation that keeps a query's own history out of the test.
-- **Interpretable ASR-Derived Feature Modeling for Classroom EFL Speaking Score Prediction: A Pilot Study.** Whisper-derived fluency, lexical and confidence features predict teacher speaking scores on real classroom recordings.
-- **Data leakage in protein fitness benchmarks.** Shows that near-duplicate variants inflate label-transfer results on deep mutational scanning data, and argues for distance-stratified reporting.
-- **Routing in vision–language models.** A matched-control audit of whether a common supervision signal really improves cost-aware routing between a cheap model and a larger VLM.
+- **Internet measurement:** ranking methods for relating network address spaces, with a pre-registered evaluation protocol.
+- **Speech AI for education:** interpretable models that predict speaking scores from speech recognition output.
+- **Machine learning for protein engineering:** benchmark design and data leakage in protein fitness prediction.
+- **Vision–language models:** evaluation methodology for cost-aware routing between models.
 
 ## Selected projects
 
