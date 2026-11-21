@@ -1,10 +1,17 @@
 # Hi, I'm White Fox ❄️
 
-I build AI systems that turn messy real-world input (documents, images, speech, video) into reliable, structured output, and I measure how often they are wrong.
+Second-year student at **University of Science, VNU-HCM (HCMUS)**. I take hard technical problems from the research question to working software, and I choose problems by how much they are worth solving, not by field.
 
-- Mathematics and AI student at **University of Science, VNU-HCM**
-- Research and projects across computer vision, NLP, speech recognition and multimodal models
-- Currently building **AI document extraction** pipelines: PDFs and scans in, validated data out, with human review for anything doubtful
+So far that has meant Internet measurement, protein machine learning, vision–language models, speech assessment, computer vision and document AI. The common thread is evaluation: I want to know when a system is silently wrong before anyone relies on it.
+
+## Research
+
+Several manuscripts are currently under review, so I describe them by area only:
+
+- **Internet measurement:** ranking methods for relating network address spaces, with a pre-registered evaluation protocol.
+- **Speech AI for education:** interpretable models that predict speaking scores from speech recognition output.
+- **Machine learning for protein engineering:** benchmark design and data leakage in protein fitness prediction.
+- **Vision–language models:** evaluation methodology for cost-aware routing between models.
 
 ## Selected projects
 
@@ -16,7 +23,5 @@ I build AI systems that turn messy real-world input (documents, images, speech, 
 | [Sleepiness-Detection](https://github.com/AI-WFox/Sleepiness-Detection) | Real-time drowsiness alert from facial landmarks | OpenCV, dlib |
 | [AI-Student-Matching](https://github.com/AI-WFox/AI-Student-Matching) | Study-partner matching with sentence embeddings | Sentence-Transformers, scikit-learn, Streamlit |
 | [Mummy_Maze](https://github.com/AI-WFox/Mummy_Maze) | Maze game with FSM + BFS monster AI and undo/redo | C++23, SDL3 |
-
-Research: automatic speaking assessment with Whisper (word-level ASR, fluency, pronunciation and lexical scoring).
 
 **Fun facts:** Ragdoll cat · Kickboxing
