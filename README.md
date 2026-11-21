@@ -1,10 +1,17 @@
 # Hi, I'm White Fox ❄️
 
-I build AI systems that turn messy real-world input (documents, images, speech, video) into reliable, structured output, and I measure how often they are wrong.
+Second-year student at **University of Science, VNU-HCM (HCMUS)**. I take hard technical problems from the research question to working software, and I choose problems by how much they are worth solving, not by field.
 
-- Mathematics and AI student at **University of Science, VNU-HCM**
-- Research and projects across computer vision, NLP, speech recognition and multimodal models
-- Currently building **AI document extraction** pipelines: PDFs and scans in, validated data out, with human review for anything doubtful
+So far that has meant Internet measurement, protein machine learning, vision–language models, speech assessment, computer vision and document AI. The common thread is evaluation: I want to know when a system is silently wrong before anyone relies on it.
+
+## Research
+
+All manuscripts below are under review, so details may change.
+
+- **TRACE6: Tiered Ranking and Persistence-Controlled Evaluation of Probe-Reported IPv4–IPv6 Prefix Associations.** Sole author, submitted to *IEEE Access*. A parameter-free ranker that links IPv4 and IPv6 prefixes from RIPE Atlas probe data, with a pre-registered evaluation that keeps a query's own history out of the test.
+- **Interpretable ASR-Derived Feature Modeling for Classroom EFL Speaking Score Prediction: A Pilot Study.** First author, with co-authors from HCMUS, HCMUE and the University of Twente. [Preprint on SSRN](https://ssrn.com/abstract=7356648). Whisper-derived fluency, lexical and confidence features predict teacher speaking scores on real classroom recordings.
+- **Data leakage in protein fitness benchmarks.** Shows that near-duplicate variants inflate label-transfer results on deep mutational scanning data, and argues for distance-stratified reporting.
+- **Routing in vision–language models.** A matched-control audit of whether a common supervision signal really improves cost-aware routing between a cheap model and a larger VLM (under double-blind review).
 
 ## Selected projects
 
@@ -16,7 +23,5 @@ I build AI systems that turn messy real-world input (documents, images, speech, 
 | [Sleepiness-Detection](https://github.com/AI-WFox/Sleepiness-Detection) | Real-time drowsiness alert from facial landmarks | OpenCV, dlib |
 | [AI-Student-Matching](https://github.com/AI-WFox/AI-Student-Matching) | Study-partner matching with sentence embeddings | Sentence-Transformers, scikit-learn, Streamlit |
 | [Mummy_Maze](https://github.com/AI-WFox/Mummy_Maze) | Maze game with FSM + BFS monster AI and undo/redo | C++23, SDL3 |
-
-Research: automatic speaking assessment with Whisper (word-level ASR, fluency, pronunciation and lexical scoring).
 
 **Fun facts:** Ragdoll cat · Kickboxing
